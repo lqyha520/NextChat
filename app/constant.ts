@@ -578,6 +578,7 @@ const alibabaModes = [
   "qwen-omni-turbo",
   "qwen-vl-plus",
   "qwen-vl-max",
+  "qwen2.5-vl-72b-instruct",
 ];
 
 const tencentModels = [
